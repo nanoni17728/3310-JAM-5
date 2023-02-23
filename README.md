@@ -2,4 +2,4 @@
 
 check https://itch.io/jam/nokiajam5
 
-The whole repository is [unlicensed](UNLICENSE)!
+I’m logging my process in [`devlog/`](devlog/). The whole repository is [unlicensed](UNLICENSE)!
